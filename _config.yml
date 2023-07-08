@@ -85,7 +85,7 @@ author:
   bio              : "PhD candidate interested in cryptographic hardware design."
   location         : "Hong Kong SAR, China"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=7z9T1LcAAAAJ"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
