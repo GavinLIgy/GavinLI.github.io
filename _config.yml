@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Gavin' page"
+title                    : "Gavin's page"
 title_separator          : "-"
 name                     : &name "LI Guangyan (Gavin)"
 description              : &description "PhD student in the Department of Electrical Engineering, City University of Hong Kong"
