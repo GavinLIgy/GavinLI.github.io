@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Gavin LI"
-  avatar           : "profile.png"
+  avatar           : "bio-photo.png"
   bio              : "PhD candidate interested in cryptographic hardware design."
   location         : "Hong Kong SAR, China"
   employer         :
