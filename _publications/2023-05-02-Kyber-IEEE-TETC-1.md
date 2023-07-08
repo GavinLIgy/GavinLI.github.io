@@ -1,7 +1,7 @@
 ---
 title: "Algorithm-Hardware Co-Design of Split-Radix Discrete Galois Transformation for KyberKEM"
 collection: publications
-permalink: /publication/2023-05-02-Kyber-TETC-1
+permalink: /publication/2023-05-02-Kyber-IEEE-TETC-1
 excerpt: 'This paper is about split-radix DGT algorithm and KyberKEM architecture.'
 date: 2023-05-02
 venue: 'IEEE Transactions on Emerging Topics in Computing'
