@@ -11,41 +11,57 @@ redirect_from:
 
 Education
 ======
-* B.S. in the Department of Electrical Engineering, City University of Hong Kong, 2020
+* B.Eng in the Department of Electrical Engineering, City University of Hong Kong, 2020
 * Ph.D in the Department of Electrical Engineering, City University of Hong Kong, 2024 (expected)
 
-Work experience
+Research Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* July 2020 --- June 2022: Optimised Post-Quantum Cryptographic System on FPGA
+  * Ph.D. Candidate - City University of Hong Kong, Hong Kong
+  * Proposing a novel NTT variant utilizing the split-radix method, to reduce the computing complexity compared to traditional NTT method.
+  * Designing a highly efficient post-quantum crypto-system enhanced by the proposed split-radix NTT algorithm, showing significant performance improvements over the state-of-the-art designs on Xilinx Artix-7 FPGA.
+  * Developing a deep understanding of hardware systems and cryptography, and technical writing skills to produce high-quality research publications. 
+  * Supervisor: Prof. Ray Cheung
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* May 2020 --- Feb 2022: Secure RISC-V Platform for IoT Devices
+  * Ph.D. Candidate - City University of Hong Kong, Hong Kong
+  * Conducting literature reviews and experimental analyses to evaluate the feasibility of implementing post-quantum cryptography, AES, and ECDSA on constrained devices with limited power and memory resources.
+  * Designing a hardware accelerator for the quantum-resistant cryptographic algorithm that can be extended to secure RISC-V IoT processors, leveraging knowledge of hardware design and cryptography.
+  * Collaborating with PI and other researchers on the project to design and implement the hardware accelerator and evaluating its effectiveness in secure IoT platforms.
+  * Supervisor: Prof. Ray Cheung
+
+* May 2019 --- Aug 2019: Hardware Security
+  * Research Assistant - LIRMM, Montpellier, France
+  * Conducting a feasibility study on implementing the PicoRV32 processor on FPGA for a lightweight SoC platform.
+  * Designing a hardware trojan in the PicoRV32 processor and attacked the AES program via simulation as part of the feasibility study on the lightweight SoC platform. 
+  * Developing strong problem-solving skills, and experience with FPGA design and simulation tools.
+  * Working effectively both independently and as part of a team in a fast-paced and dynamic research environment.
+  * Supervisor: Dr. Sophie Dupuis
+
+* May 2019 --- May 2020: Post-Quantum Cryptographic Hardware Design
+  * Final Year Project - City University of Hong Kong, Hong Kong
+  * Implemented a quantum-resistant cryptographic algorithm named as the Binary Ring LWE algorithm (BRLWE) in C, accelerated by an optimized NTT multiplication algorithm.
+  * Conducted a hardware/software co-design, resulting in an SoC platform called Brlwesoc with UART port and the BRLWE C program running on.
+  * Implemented the Brlwesoc on Lattice iCE40-HX8K FPGA board. Space, timing analysis and accuracy analysis are performed and the comparison on different parameter sets of the BRLWE is presented and discussed.
+  * Supervisor: Prof. Ray Cheung
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Coding: Verilog HDL, VHDL, SpinalHDL, Scala, C/C++, Python, MATLAB.
+* Hardware Design Tools: Xilinx Vivado, Xilinx Vivado HLS.
+* Languages: Mandarin (native), English (proficient), Cantonese(basic)
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
+
+<!-- Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
 Teaching
 ======
@@ -53,6 +69,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+<!-- Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
