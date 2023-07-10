@@ -1,7 +1,7 @@
 ---
 title: 'Gavin's Paper Accepted in IEEE IoT-J'
 date: 2023-07-10
-permalink: /posts/2023/07/IoT-J-accept-1/
+permalink: /posts/2023/07/IoT-J-accept-4/
 tags:
   - Paper Accept
 ---

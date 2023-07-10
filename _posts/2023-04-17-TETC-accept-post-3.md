@@ -1,7 +1,7 @@
 ---
 title: 'Gavin's Paper Accepted in IEEE TETC'
 date: 2023-04-17
-permalink: /posts/2023/04/TETC-accept-1/
+permalink: /posts/2023/04/TETC-accept-3/
 tags:
   - Paper Accept
 ---
