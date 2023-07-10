@@ -12,7 +12,7 @@ main:
   # - title: "News"
   #   url: /portfolio/
         
-  - title: "Blog Posts"
+  - title: "News Posts"
     url: /year-archive/
     
   - title: "CV"

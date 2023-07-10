@@ -1,7 +1,7 @@
 ---
 title: "Gavin's Paper Accepted in IEEE TRETS"
 date: 2022-10-10
-permalink: /posts/2023/04/TRETS-accept-1/
+permalink: /posts/2022/10/TRETS-accept-1/
 tags:
   - Paper Accept
 ---
