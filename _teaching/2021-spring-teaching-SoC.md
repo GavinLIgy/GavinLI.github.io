@@ -8,16 +8,21 @@ date: 2021-01-10
 location: "Hong Kong SAR, China"
 ---
 
-2021/22 Semester B
-2022/23 Semester B
+This is a course covering the System-on-Chip & Embedded System design, and practical design skills, industry practices and recent technology trends, including the basis on Arm DS platform, Arm Keil platform, Xilinx vivado, Xilinx Vitis HLS, etc. Several hands-on exercises and labs are enclosed in this course. This descryption covers the topics, tutorials, and exercises deliverd by Gavin in this course.
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
+Teaching Semesters
 ======
+- 2021/22 Semester B
+- 2022/23 Semester B
 
-Heading 2
+Tutorials & Labs
 ======
+- Coding and Debuging on the Arm DS platform and Arm Keil platform
+- Develop an FPGA project on the Xilinx vivado platform
+- Build a simple System-on-Chip on Pynq-z2 Board
+- Develop an SoC Framework to accelerate numerical computing with Xilinx Vitis HLS
 
-Heading 3
+Assignments & Exercises
 ======
+- Designing Embedded Systems with MicroBlaze
+- Creating custom IP for MicroBlaze and PWM
