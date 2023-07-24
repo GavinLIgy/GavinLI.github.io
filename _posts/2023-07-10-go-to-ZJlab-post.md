@@ -6,4 +6,4 @@ tags:
   - Visiting
 ---
 
-Gavin would be embarking on an academic journey at Zhejiang Lab as an exchange student
+Gavin would be embarking on an academic journey at Zhejiang Lab as an exchange student from July 15, 2023 to Oct 15, 2023. Safe trip!
