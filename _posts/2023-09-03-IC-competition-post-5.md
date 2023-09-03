@@ -1,7 +1,7 @@
 ---
 title: "Gavin won the first prize from the IC Design competition in Beijing"
 date: 2023-09-03
-permalink: /posts/2023/09/IC-competition-post/
+permalink: /posts/2023/09/IC-competition-post-5/
 tags:
   - Award
 ---

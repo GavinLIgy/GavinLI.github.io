@@ -45,6 +45,12 @@ Research Experience
   * Implemented the Brlwesoc on Lattice iCE40-HX8K FPGA board. Space, timing analysis and accuracy analysis are performed and the comparison on different parameter sets of the BRLWE is presented and discussed.
   * Supervisor: Prof. Ray Cheung
   
+Selected Awards
+======
+* CityU EE Graduate Research Seminar Awards - First Prize - Semester A 2022/23
+* 2023 IC Design Invitational Competition for College Students from Across-the-Taiwan-Straits, Hong Kong and Macau (2023年海峡两岸暨港澳大学生集成电路与电子设计邀请赛) - First Prize - Sept 2023
+* Research Tuition Scholarship (RTS) - Full Tuition Fee - Academic Year 2023/24
+
 Skills
 ======
 * Coding: Verilog HDL, VHDL, SpinalHDL, Scala, C/C++, Python, MATLAB.
