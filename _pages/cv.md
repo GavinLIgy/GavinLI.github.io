@@ -48,7 +48,7 @@ Research Experience
 Skills
 ======
 * Coding: Verilog HDL, VHDL, SpinalHDL, Scala, C/C++, Python, MATLAB.
-* Hardware Design Tools: Xilinx Vivado, Xilinx Vivado HLS.
+* Hardware Design Tools: Xilinx Vivado, Xilinx Vivado HLS, Verilator, VCS.
 * Languages: Mandarin (native), English (proficient), Cantonese(basic)
 
 Publications
