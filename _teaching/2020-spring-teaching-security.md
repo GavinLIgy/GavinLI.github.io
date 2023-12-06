@@ -15,14 +15,16 @@ Teaching Semesters
 - 2020/21 Semester B
 - 2021/22 Semester A
 - 2022/23 Semester A
+- 2023/24 Semester A
 
 Tutorials & Labs
 ======
 - Basic Operations in SageMath (Python)
 - Data Encryption Standard (DES) Scheme
+- Elliptic Curve Cryptography (ECC) Scheme
 - Hash Functions, MAC, and Digital Signature
 
 Assignments & Exercises
 ======
-- OpenSSL
+- OpenSSL exercises
 - Build A Serverless Web Service on Alibaba Cloud (AI + WordPress on Alibaba Cloud ECS environment)
