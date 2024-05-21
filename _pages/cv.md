@@ -14,6 +14,13 @@ Education
 * B.Eng in the Department of Electrical Engineering, City University of Hong Kong, 2020
 * Ph.D in the Department of Electrical Engineering, City University of Hong Kong, 2024 (expected)
 
+Work Experience
+======
+* Dec 2023 --- May 2024: Research Intern in Huawei HK
+  * Research Intern - Huawei 2012 Laboratory, Theory Laboratory
+  * Participated in a cluster system development project, responsible for optimizing the low-level program blocks.
+  * Conducted several internal talks, technology sharings. And generated technical report. 
+
 Research Experience
 ======
 * July 2020 --- June 2022: Optimised Post-Quantum Cryptographic System on FPGA
@@ -45,10 +52,6 @@ Research Experience
   * Implemented the Brlwesoc on Lattice iCE40-HX8K FPGA board. Space, timing analysis and accuracy analysis are performed and the comparison on different parameter sets of the BRLWE is presented and discussed.
   * Supervisor: Prof. Ray Cheung
   
-Work Experience
-======
-* Research Intern in the Huawei 2012 Laboratory, Theory Laboratory
-
 Selected Awards
 ======
 * CityU EE Graduate Research Seminar Awards - First Prize - Semester A 2022/23
@@ -58,10 +61,10 @@ Selected Awards
 
 Skills
 ======
-* Coding: Verilog HDL, VHDL, SpinalHDL, Scala, C/C++, Python, MATLAB.
-* Linux x86 Development: Perf, Intel VTune Profilier.
+* Coding Languages: Verilog HDL, VHDL, SpinalHDL, Scala, C/C++, Python, MATLAB.
+* Linux x86 Development & Development: Perf, Intel VTune Profilier.
 * Hardware Design Tools: Xilinx Vivado, Xilinx Vivado HLS, Verilator, VCS.
-* Languages: Mandarin (native), English (proficient), Cantonese(basic)
+* Languages: Mandarin (native), English (proficient), Cantonese(basic).
 
 Publications
 ======
