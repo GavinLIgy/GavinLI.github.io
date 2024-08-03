@@ -23,6 +23,13 @@ Work Experience
 
 Research Experience
 ======
+* June 2022 --- Sept 2023: Design Space Exploration Framework on Optimised Polynomial Multiplication Architecture on FPGA
+  * Ph.D. Candidate - City University of Hong Kong, Hong Kong
+  * Proposing a novel NTT variant utilizing the radix-4 method, to reduce the computing complexity compared to traditional NTT method.
+  * Designing a highly efficient post-quantum crypto-system enhanced by the proposed split-radix NTT algorithm, showing significant performance improvements over the state-of-the-art designs on Xilinx Artix-7 FPGA.
+  * Developing a deep understanding of hardware systems and cryptography, and technical writing skills to produce high-quality research publications. 
+  * Supervisor: Prof. Ray Cheung
+
 * July 2020 --- June 2022: Optimised Post-Quantum Cryptographic System on FPGA
   * Ph.D. Candidate - City University of Hong Kong, Hong Kong
   * Proposing a novel NTT variant utilizing the split-radix method, to reduce the computing complexity compared to traditional NTT method.
@@ -37,6 +44,13 @@ Research Experience
   * Collaborating with PI and other researchers on the project to design and implement the hardware accelerator and evaluating its effectiveness in secure IoT platforms.
   * Supervisor: Prof. Ray Cheung
 
+* May 2019 --- May 2020: Post-Quantum Cryptographic Hardware Design
+  * Final Year Project - City University of Hong Kong, Hong Kong
+  * Implemented a quantum-resistant cryptographic algorithm named as the Binary Ring LWE algorithm (BRLWE) in C, accelerated by an optimized NTT multiplication algorithm.
+  * Conducted a hardware/software co-design, resulting in an SoC platform called Brlwesoc with UART port and the BRLWE C program running on.
+  * Implemented the Brlwesoc on Lattice iCE40-HX8K FPGA board. Space, timing analysis and accuracy analysis are performed and the comparison on different parameter sets of the BRLWE is presented and discussed.
+  * Supervisor: Prof. Ray Cheung
+
 * May 2019 --- Aug 2019: Hardware Security
   * Research Assistant - LIRMM, Montpellier, France
   * Conducting a feasibility study on implementing the PicoRV32 processor on FPGA for a lightweight SoC platform.
@@ -44,13 +58,6 @@ Research Experience
   * Developing strong problem-solving skills, and experience with FPGA design and simulation tools.
   * Working effectively both independently and as part of a team in a fast-paced and dynamic research environment.
   * Supervisor: Dr. Sophie Dupuis
-
-* May 2019 --- May 2020: Post-Quantum Cryptographic Hardware Design
-  * Final Year Project - City University of Hong Kong, Hong Kong
-  * Implemented a quantum-resistant cryptographic algorithm named as the Binary Ring LWE algorithm (BRLWE) in C, accelerated by an optimized NTT multiplication algorithm.
-  * Conducted a hardware/software co-design, resulting in an SoC platform called Brlwesoc with UART port and the BRLWE C program running on.
-  * Implemented the Brlwesoc on Lattice iCE40-HX8K FPGA board. Space, timing analysis and accuracy analysis are performed and the comparison on different parameter sets of the BRLWE is presented and discussed.
-  * Supervisor: Prof. Ray Cheung
   
 Selected Awards
 ======
