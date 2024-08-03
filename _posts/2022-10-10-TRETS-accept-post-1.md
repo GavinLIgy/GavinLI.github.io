@@ -1,5 +1,5 @@
 ---
-title: "Gavin's Paper Accepted in IEEE TRETS"
+title: "Gavin's Paper Accepted in ACM TRETS"
 date: 2022-10-10
 permalink: /posts/2022/10/TRETS-accept-1/
 tags:
