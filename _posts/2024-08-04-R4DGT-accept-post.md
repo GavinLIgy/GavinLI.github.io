@@ -1,5 +1,5 @@
 ---
-title: "Gavin's Paper Accepted in ACM TRETS"
+title: "Gavin's Paper Accepted in ACM TRETS (special issue)"
 date: 2024-08-04
 permalink: /posts/2024/08/R4DGT-accept-1/
 tags:
