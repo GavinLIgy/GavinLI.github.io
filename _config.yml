@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Gavin's page"
+title                    : "LI Guangyan (Gavin)'s page"
 title_separator          : "-"
 name                     : &name "LI Guangyan (Gavin)"
 description              : &description "PhD student in the Department of Electrical Engineering, City University of Hong Kong"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Gavin LI"
+  name             : "LI Guangyan (Gavin)"
   avatar           : "bio-photo.jpg"
-  bio              : "PhD candidate interested in cryptographic hardware design."
+  bio              : "PhD candidate focusing on cryptographic hardware design."
   location         : "Hong Kong SAR, China"
   employer         :
   pubmed           : 
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : 
   orcid            : "https://orcid.org/0000-0002-8399-9467"
   pinterest        :
   soundcloud       :
