@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Mr. LI Guangyan (Gavin) is now a final year Ph.D. candidate under the supervision of Prof. Ray C. C. Cheung of the Department of Electrical Engineering, City University of Hong Kong, where he works on reconfigurable computing with FPGA, and cryptographic hardware design. Before that, he was an research assistant at the LIRMM in Montpellier, France in 2019. He received his bachelor degree in 2020 from the Department of Electrical Engineering, City University of Hong Kong.
+Mr. LI Guangyan (Gavin) is now a final year Ph.D. candidate under the supervision of Prof. Ray C. C. Cheung of the Department of Electrical Engineering, City University of Hong Kong, where he works on high-performance reconfigurable computing with FPGA and cryptographic hardware design. Before that, he was a research assistant at the LIRMM in Montpellier, France, in 2019. He received his bachelor's degree in 2020 from the Department of Electrical Engineering, City University of Hong Kong.

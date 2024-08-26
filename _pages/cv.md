@@ -12,16 +12,21 @@ redirect_from:
 Education
 ======
 * B.Eng in the Department of Electrical Engineering, City University of Hong Kong, 2020
-* Ph.D in the Department of Electrical Engineering, City University of Hong Kong, 2024 (expected)
+* Ph.D in the Department of Electrical Engineering, City University of Hong Kong, 2025 (expected)
 
-Work Experience
+Internship Experiences
 ======
 * Dec 2023 --- May 2024: Research Intern in Huawei HK
   * Research Intern - Huawei 2012 Laboratory, Theory Laboratory
   * Participated in a cluster system development project, responsible for optimizing the low-level program blocks.
   * Conducted several internal talks, technology sharings. And generated technical report. 
 
-Research Experience
+* July 2023 --- Oct 2023: Research Intern in Zhijiang Lab, Hangzhou, China
+  * Research Intern - Zhijiang Lab
+  * Participated in a NPU-based high-performance computing system development project, responsible for optimizing the low-level program blocks.
+  * Conducted several internal talks, technology sharings. And generated technical report. 
+
+Research Experiences
 ======
 * June 2022 --- Sept 2023: Design Space Exploration Framework on Optimised Polynomial Multiplication Architecture on FPGA
   * Ph.D. Candidate - City University of Hong Kong, Hong Kong
