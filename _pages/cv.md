@@ -14,7 +14,7 @@ Education
 * B.Eng in the Department of Electrical Engineering, City University of Hong Kong, 2020
 * Ph.D in the Department of Electrical Engineering, City University of Hong Kong, 2025 (expected)
 
-Internship Experiences
+Work Experiences
 ======
 * Dec 2023 --- May 2024: Research Intern in Huawei HK
   * Research Intern - Huawei 2012 Laboratory, Theory Laboratory
@@ -25,6 +25,14 @@ Internship Experiences
   * Research Intern - Zhijiang Lab
   * Participated in a NPU-based high-performance computing system development project, responsible for optimizing the low-level program blocks.
   * Conducted several internal talks, technology sharings. And generated technical report. 
+
+Skills
+======
+* C/C++ Development Tools: CLion, Git, Perf, Intel VTune Profilier.
+* Programming Languages:  C/C++, MATLAB, Python.
+* Hardware Development Tools: Xilinx Vivado, Xilinx Vivado HLS, Verilator, VCS.
+* Hardware Description Languages: Verilog HDL, VHDL, Scala(SpinalHDL).
+* Languages: Mandarin (native), English (proficient), Cantonese(basic).
 
 Research Experiences
 ======
@@ -63,20 +71,6 @@ Research Experiences
   * Developing strong problem-solving skills, and experience with FPGA design and simulation tools.
   * Working effectively both independently and as part of a team in a fast-paced and dynamic research environment.
   * Supervisor: Dr. Sophie Dupuis
-  
-Selected Awards
-======
-* CityU EE Graduate Research Seminar Awards - First Prize - Semester A 2022/23
-* 2023 IC Design Invitational Competition for College Students from Across-the-Taiwan-Straits, Hong Kong and Macau (2023年海峡两岸暨港澳大学生集成电路与电子设计邀请赛) - First Prize - Sept 2023
-* Research Tuition Scholarship (RTS) - Full Tuition Fee - Academic Year 2023/24
-* 2023 Guangdong Province Computer Society Outstanding paper award - 3rd Prize - - Jan 2024
-
-Skills
-======
-* Coding Languages: Verilog HDL, VHDL, SpinalHDL, Scala, C/C++, Python, MATLAB.
-* Linux x86 Development & Development: Perf, Intel VTune Profilier.
-* Hardware Design Tools: Xilinx Vivado, Xilinx Vivado HLS, Verilator, VCS.
-* Languages: Mandarin (native), English (proficient), Cantonese(basic).
 
 Publications
 ======
@@ -90,6 +84,13 @@ Patents
 * Cryptosystem With Utilizing Split-Radix Discrete Galois Transformation (inventor) - U.S. Patent Pending 18/337,391 - A method and system for key encapsulation processor with utilizing split-radix Discrete Galois Transformation for high performance.
 
 * A Processor For A Cryptosystem (inventor) - U.S. Patent 12,093,198 B2 - A method and system for digital signature service including hardware accelerator modules and software processor.
+
+Selected Awards
+======
+* CityU EE Graduate Research Seminar Awards - First Prize - Semester A 2022/23
+* 2023 IC Design Invitational Competition for College Students from Across-the-Taiwan-Straits, Hong Kong and Macau (2023年海峡两岸暨港澳大学生集成电路与电子设计邀请赛) - First Prize - Sept 2023
+* Research Tuition Scholarship (RTS) - Full Tuition Fee - Academic Year 2023/24
+* 2023 Guangdong Province Computer Society Outstanding paper award - 3rd Prize - - Jan 2024
 
 <!-- Talks
 ======
