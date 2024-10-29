@@ -84,6 +84,13 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
+
+Patents
+======
+* Cryptosystem With Utilizing Split-Radix Discrete Galois Transformation (inventor) - U.S. Patent Pending 18/337,391 - A method and system for key encapsulation processor with utilizing split-radix Discrete Galois Transformation for high performance.
+
+* A Processor For A Cryptosystem (inventor) - U.S. Patent 12,093,198 B2 - A method and system for digital signature service including hardware accelerator modules and software processor.
+
 <!-- Talks
 ======
   <ul>{% for post in site.talks %}
