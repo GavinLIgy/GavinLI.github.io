@@ -18,12 +18,12 @@ Work Experiences
 ======
 * Dec 2023 --- May 2024: Research Intern in Huawei HK
   * Research Intern - Huawei 2012 Laboratory, Theory Laboratory
-  * Participated in a cluster system development project, responsible for optimizing the low-level program blocks.
+  * Participated in a cluster system development project, contuibute to the multithreading and distributed-system low-level operators optimization.
   * Conducted several internal talks, technology sharings. And generated technical report. 
 
 * July 2023 --- Oct 2023: Research Intern in Zhijiang Lab, Hangzhou, China
   * Research Intern - Zhijiang Lab
-  * Participated in a NPU-based high-performance computing system development project, responsible for optimizing the low-level program blocks.
+  * Participated in a GPU-based high-performance computing system development project, contuibute to optimizing the low-level operators.
   * Conducted several internal talks, technology sharings. And generated technical report. 
 
 Skills
