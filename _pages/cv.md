@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * B.Eng in the Department of Electrical Engineering, City University of Hong Kong, 2020
-* Ph.D in the Department of Electrical Engineering, City University of Hong Kong, 2025 (expected)
+* Ph.D in the Department of Electrical Engineering, City University of Hong Kong, 2025 
 
 Work Experiences
 ======
