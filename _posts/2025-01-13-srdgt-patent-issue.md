@@ -1,6 +1,6 @@
 ---
 title: "Gavin's US Patent Issued: CRYPTOSYSTEM WITH UTILIZING SPLIT-RADIX DISCRETE GALOIS TRANSFORMATION"
-date: 2025-01-13
+date: 2025-01-12
 permalink: /posts/2025/01/srdgt-patent-issue/
 tags:
   - Award
