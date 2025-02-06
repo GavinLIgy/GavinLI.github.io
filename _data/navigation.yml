@@ -12,8 +12,8 @@ main:
   # - title: "News"
   #   url: /portfolio/
         
-  - title: "News Posts"
+  - title: "News Post"
     url: /year-archive/
     
-  - title: "CV"
+  - title: "My CV"
     url: /cv/
