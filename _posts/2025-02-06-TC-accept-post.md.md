@@ -1,7 +1,7 @@
 ---
 title: "Gavin's Paper Accepted in IEEE TC"
 date: 2025-02-06
-permalink: /posts/2025/02/srdgt-patent-issue/
+permalink: /posts/2025/02/TC-accept-post/
 tags:
   - Paper Accept
 ---
