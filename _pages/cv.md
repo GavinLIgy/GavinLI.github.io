@@ -9,10 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
+[Download CV here (EN)](http://gavinligy.github.io/GavinLI.github.io/files/liguangyan_05Mar2025_general_en.pdf)
+[下载中文版简历（CN）](http://gavinligy.github.io/GavinLI.github.io/files/liguangyan_05Mar2025_general_cn.pdf)
+
 Education
 ======
-* B.Eng in the Department of Electrical Engineering, City University of Hong Kong, 2020
 * Ph.D in the Department of Electrical Engineering, City University of Hong Kong, 2025 
+* B.Eng in the Department of Electrical Engineering, City University of Hong Kong, 2020
 
 Work Experiences
 ======
@@ -29,10 +32,10 @@ Work Experiences
 Skills
 ======
 * C/C++ Development Tools: CLion, Git, Perf, Intel VTune Profilier.
-* Programming Languages:  C/C++, MATLAB, Python.
+* Programming Languages: C/C++, MATLAB, Python.
 * Hardware Development Tools: Xilinx Vivado, Xilinx Vivado HLS, Verilator, VCS.
-* Hardware Description Languages: Verilog HDL, VHDL, Scala(SpinalHDL).
-* Languages: Mandarin (native), English (proficient), Cantonese(basic).
+* Hardware Description Languages: Verilog HDL, VHDL, Scala(Chisel, SpinalHDL).
+* Languages: Mandarin (Native), English (Proficient), Cantonese (Intermediate).
 
 Research Experiences
 ======
