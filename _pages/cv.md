@@ -9,8 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
-[Download CV here (EN)](http://gavinligy.github.io/GavinLI.github.io/files/liguangyan_05Mar2025_general_en.pdf)
-[下载中文版简历（CN）](http://gavinligy.github.io/GavinLI.github.io/files/liguangyan_05Mar2025_general_cn.pdf)
+PDF Version of CV
+======
+* [Download CV here (EN)](http://gavinligy.github.io/GavinLI.github.io/files/liguangyan_05Mar2025_general_en.pdf)
+* [下载中文版简历（CN）](http://gavinligy.github.io/GavinLI.github.io/files/liguangyan_05Mar2025_general_cn.pdf)
 
 Education
 ======
